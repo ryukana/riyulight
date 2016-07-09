@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/classes-6a1aab2d15c40b21ee51e929caa646946a5ce502.jar" />
+    </item>
+    <item
+        jar="/Users/ryu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1-767fb2dd1dbd7a39c44ea6ad24701c9c16232c53.jar" />
+    </item>
+    <item
+        jar="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/classes-b5229062e5dd25f15e713aacecf16df1266a6db2.jar" />
+    </item>
+    <item
+        jar="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5991291ead2c93cbddd4d192e72b173b3d95a0f3.jar" />
+    </item>
+    <item
+        jar="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/classes-7101f364be6863bf703b464829b8ecb55f2ca74e.jar" />
+    </item>
+    <item
+        jar="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/classes-2f81d306097cd7d70d4c359a108ae9a9cabea329.jar" />
+    </item>
+    <item
+        jar="/Users/ryu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ryu/Desktop/riyulight/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0-5b132f83f04f4297e18a1c8510b09cd6db68e903.jar" />
+    </item>
+
+</items>
